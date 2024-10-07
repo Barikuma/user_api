@@ -1,0 +1,32 @@
+[
+    {
+        "email": "dmark@gmail.com",
+        "id": 1,
+        "name": "Mark"
+    },
+    {
+        "email": "jl@gmail.com",
+        "id": 2,
+        "name": "James Lucas"
+    },
+    {
+        "email": "MathL@gmail.com",
+        "id": 3,
+        "name": "Mathews Larry"
+    },
+    {
+        "name": "Chandler Bing",
+        "id": 4,
+        "email": "HSher@gmail.com"
+    },
+    {
+        "name": "Peewee Sherman",
+        "id": 5,
+        "email": "Peewee@gmail.com"
+    },
+    {
+        "name": "Gigi Samantha",
+        "email": "samantha@gmail.com",
+        "id": 8
+    }
+]
